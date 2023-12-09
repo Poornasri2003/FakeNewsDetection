@@ -24,8 +24,10 @@ Employs machine learning models to classify news as fake or genuine.
 ### User Interface:
 Provides a simple command-line interface for user interaction.
 ## Usage
-### Input Article: Enter the news article content when prompted.
-### Detection Result: Receive the system's classification result indicating whether the news is fake or genuine.
+### Input Article: 
+Enter the news article content when prompted.
+### Detection Result:
+Receive the system's classification result indicating whether the news is fake or genuine.
 ## Acknowledgments
 This Fake News Detection System is developed to enhance media literacy and combat misinformation. Special thanks to the open-source community for their contributions to NLP and machine learning.
 
